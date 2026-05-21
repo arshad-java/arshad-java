@@ -26,7 +26,7 @@ Currently focused on **System Design, DevOps, Microservices, and Cloud Engineeri
 - Role-based access control
 - Integrated payment & order management system
 - Deployed on AWS EC2 with CI/CD  
-- 🔗 Live Demo: ( Link)  
+- 🔗 Live Demo:  
 
 
 ## 🔹 Full Stack Task Manager
